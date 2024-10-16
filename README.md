@@ -20,5 +20,5 @@ Este roadmap serve como um guia para aqueles que desejam se tornar engenheiros d
 
 O roadmap não é definitivo, mas serve como um ponto de partida sólido para sua jornada na engenharia de dados.
 
-![Roadmap](assets/Data-Engineer-Roadmap.svg)
+![Roadmap](assets/engenharia-de-dados-roadmap.svg)
 
